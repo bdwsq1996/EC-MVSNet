@@ -1,0 +1,10 @@
+opencv-python
+numpy
+plyfile
+scikit-learn
+tensorboardX
+torch
+gradio_imageslider
+gradio
+matplotlib
+torchvision
