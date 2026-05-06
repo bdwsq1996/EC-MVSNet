@@ -61,11 +61,11 @@ tanksandtemples
            ├── Family       
            ├── ...          
 ```
-We use the camera parameters of short depth range version (included in your download), you should replace the `cams` folder in `intermediate` folder with the short depth range version manually.
+We use the camera parameters of the short depth range version (included in your download), you should replace the `cams` folder in `intermediate` folder with the short depth range version manually.
 
 ## Mono depth feature
 
-
+Our method involves a pre-trained model for Depth Anything V2, so please download it (https://huggingface.co/depth-anything/Depth-Anything-V2-Base/resolve/main/depth_anything_v2_vitb.pth?download=true) and place it in the 'pretrain_checkpoints' folder to ensure the code runs properly
 
 ## Training
 
